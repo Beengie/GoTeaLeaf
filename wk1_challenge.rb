@@ -80,3 +80,12 @@ puts "\tarray = []"
 puts "\tarray.push(h)"
 puts "end"
 puts "--------"
+puts 
+puts "#15 -----"
+puts <<FORMATED
+I feel that I like ruby-doc.org for the API resource.
+The other sites seem to be a little confusing to navigate
+around with, and I like the version control links at the
+top of the page to navigate quickly to other Ruby versions.
+--------
+FORMATED
